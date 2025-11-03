@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Rashidiya",
+        "population_density": 8900,
+        "urban_index": 0.7,
+        "balance": "good"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[55.45,25.40],[55.47,25.40],[55.47,25.42],[55.45,25.42],[55.45,25.40]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Nuaimiya",
+        "population_density": 12000,
+        "urban_index": 0.5,
+        "balance": "bad"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[55.47,25.40],[55.49,25.40],[55.49,25.42],[55.47,25.42],[55.47,25.40]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Jurf",
+        "population_density": 6500,
+        "urban_index": 0.8,
+        "balance": "good"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[55.49,25.40],[55.51,25.40],[55.51,25.42],[55.49,25.42],[55.49,25.40]]]
+      }
+    }
+  ]
+}
